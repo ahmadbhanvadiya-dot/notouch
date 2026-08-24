@@ -145,3 +145,6 @@ This project is open-source and available under the **MIT License**.
 **Ahmad Bhanvadiya**
 
 Built as a computer vision and human-computer interaction project.
+
+
+~Launching soon, stay tuned.
